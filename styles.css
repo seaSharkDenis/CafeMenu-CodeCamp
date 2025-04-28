@@ -10,3 +10,14 @@ body{
     margin-right: auto;
     margin-left: auto;
 }
+.flavor{
+    text-align: left;
+    width: 75%;
+}
+.price{
+    text-align: right;
+    width: 25%;
+}
+.item p{
+    display: inline-block;
+}
